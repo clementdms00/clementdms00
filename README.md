@@ -1,32 +1,22 @@
-# GitHub Student Developer Pack Application
-
 ## 👋 About Me
-Hello! My name is Clément, and I’m currently a student. I’m passionate about learning programming and building real-world projects using tools that professionals use.
 
-## 🎯 Why I'm Applying
-I’m applying for the GitHub Student Developer Pack to:
-- Improve my coding skills through real-world practice.
-- Build personal projects using industry-standard tools.
-- Learn how to collaborate on code using Git and GitHub.
+Hi! I'm Clément Dumas, a student. I'm currently learning web development and programming, with a strong interest in building websites, apps, and exploring how software works.
 
-## 🛠️ How I Plan to Use the Pack
-If approved, I plan to use the tools and benefits in the following ways:
-- **GitHub Pro**: To manage private and public repositories for school and personal projects.
-- **Replit & Codespaces**: For cloud-based coding and testing.
-- **Namecheap & DNS**: To create a personal portfolio website.
-- **Canva & Figma**: To design user interfaces for my apps and websites.
-- **MongoDB & DigitalOcean**: For experimenting with backend development and deploying full-stack apps.
-- **JetBrains IDEs**: For advanced code editing and debugging.
+I enjoy learning new technologies, working on creative projects, and using GitHub to track my progress and collaborate. I'm especially interested in front-end development, design, and making useful tools that solve real problems.
 
-## 📚 What I'm Learning
-I’m currently learning:
-- HTML, CSS, and JavaScript
-- Git and GitHub basics
-- Python for beginner projects
-- Basic web development and design
+Outside of coding, I like graphic design, tech news, and experimenting with digital tools.
 
-## 🌱 My Goal
-My short-term goal is to build a small website portfolio to showcase my projects. Long-term, I want to study computer science and become a developer.
+📚 Skills I’m Learning:  
+- HTML, CSS, JavaScript  
+- Python  
+- Git & GitHub  
+- UI/UX basics
 
-Thank you for considering my application!
+🚀 Goals:  
+- Build a personal portfolio site  
+- Create small web apps  
+- Join open-source projects
+
+Thanks for visiting my profile!
+
 
